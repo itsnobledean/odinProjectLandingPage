@@ -6,3 +6,5 @@ For some reason I have not dedicated time to practice building using flexbox. Th
 I'll be utilizing as much of github as possible by adding files, committing, and pushing.
 
 I have three files; index.html, style.css, and index.js.
+
+Well after watching this youtube video I now believe I should start over. It seems as I've made things harder on myself how I made my containers.
