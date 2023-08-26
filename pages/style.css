@@ -3,3 +3,50 @@
   margin: 0;
   padding: 0;
 }
+.header-container {
+  background-color: #1f2937;
+
+  align-items: center;
+  padding: 10px;
+  margin: 0 auto;
+  width: 900px;
+}
+.header-top {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}
+.pic-of-me {
+  padding-top: 10px;
+}
+.header-body-h2 {
+  font-size: 48px;
+  font-weight: extra-bold;
+  color: #f9faf8;
+}
+.header-body-p {
+  font-size: 18px;
+  color: #e5e7eb;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+a {
+  color: #e5e7eb;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+}
+li {
+  list-style: none;
+}
+.header-body {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 auto;
+  padding: 10px;
+  width: 700px;
+  max-width: 1400px;
+}
