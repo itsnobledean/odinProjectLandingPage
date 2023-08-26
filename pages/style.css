@@ -3,3 +3,19 @@
   margin: 0;
   padding: 0;
 }
+.header {
+  color: #fff;
+}
+.header-top {
+  display: flex;
+  justify-content: space-between;
+}
+ul {
+  list-style: none;
+  display: flex;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+  background-color: rgb(50, 50, 131);
+}
